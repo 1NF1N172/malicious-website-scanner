@@ -25,8 +25,8 @@ CORS(app)
 # блурпинт на регистрацията
 app.register_blueprint(auth, url_prefix='/auth')
 
-# апи ключа
-app.config['SECRET_KEY'] = 'qwepoi_123987!'  
+# Secret key (override via environment variable in production)
+app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'changeme')  
 
 # Database cконфигурация
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///feedback.db'

@@ -60,16 +60,3 @@ Development
 - Run with reload: `flask --app app.py --debug run`
 - Apply migrations (after editing models): `flask db migrate -m "msg" && flask db upgrade`
 
-Publishing to GitHub
---------------------
-If Git is available:
-```
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/1nf1n172/malicious-website-scanner.git
-git push -u origin main
-```
-Ensure your images are added under `assets/screenshots/` before the push so the README renders with the provided captures.
-
