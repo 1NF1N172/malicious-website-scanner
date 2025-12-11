@@ -13,6 +13,7 @@ Add your captures to `assets/screenshots/` and update the table below if you cha
 | Result (offline sample) | `assets/screenshots/DR_Result_offline.png` |
 | Result (phishing sample) | `assets/screenshots/DR_result_phishing.png` |
 | Result (legit sample) | `assets/screenshots/DR_Result_legit.png` |
+| Result (legit sample) | `assets/screenshots/DR_Result_domain.png` |
 | Result (map/location) | `assets/screenshots/DR_Result_map.png` |
 | Result (preview) | `assets/screenshots/DR_result_preview.png` |
 
