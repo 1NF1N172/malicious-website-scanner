@@ -16,6 +16,15 @@ Add your captures to `assets/screenshots/` and update the table below if you cha
 | Result (map/location) | `assets/screenshots/DR_Result_map.png` |
 | Result (preview) | `assets/screenshots/DR_result_preview.png` |
 
+Preview
+-------
+![Landing & search](assets/screenshots/DR_Search.png)
+![Result offline](assets/screenshots/DR_Result_offline.png)
+![Result phishing](assets/screenshots/DR_result_phishing.png)
+![Result legit](assets/screenshots/DR_Result_legit.png)
+![Result map](assets/screenshots/DR_Result_map.png)
+![Result preview](assets/screenshots/DR_result_preview.png)
+
 Overview
 --------
 - URL submission form with animated UI and live loading overlay.
